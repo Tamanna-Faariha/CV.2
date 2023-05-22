@@ -1,0 +1,52 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat&family=Cormorant+Garamond&family=Courgette&family=Dancing+Script:wght@400;700&family=Great+Vibes&family=Lobster&family=Pacifico&family=Satisfy&family=Secular+One&family=Varela+Round&display=swap');
+
+
+
+img {
+    border: thick solid whitesmoke;
+    border-radius: 50%;
+}
+.star {
+    font-size: 25px;
+    color: gold;
+}
+
+fieldset {
+    background-color: rgb(226, 246, 224);
+    border-color:whitesmoke;
+    width:20% ;
+}
+legend {
+    font-size: 35px;
+    font-family: 'Varela Round', sans-serif;
+    color: rgb(114, 215, 170);
+}
+button {
+    border-radius: 10%;
+    border-color:aliceblue;
+    background-color:rgb(252, 232, 247);
+    box-shadow: 0 0 5px;
+}
+button:hover {
+    background-color:rgb(114, 215, 170);
+    box-shadow: 0 0 5px rgb(37, 91, 112);
+    font-size: 1rem;
+}
+body {
+    background-color:rgb(226, 246, 224);
+}
+hr {
+border-style: none;
+border-top-style: dotted;
+border-color: rgb(180, 233, 209);
+border-width: 5px;
+width: 5%; }
+h1 {
+    color: rgb(114, 215, 170);
+    font-family: 'Varela Round', sans-serif;
+}
+h3 {
+    color: rgb(114, 215, 170);
+    font-family: 'Varela Round', sans-serif;
+}
